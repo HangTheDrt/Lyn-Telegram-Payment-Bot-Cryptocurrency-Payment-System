@@ -1,0 +1,2 @@
+D:\GithubNew\11\TeleegramPayment\TelegramPaym\Telegram-Payment-Bot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\11\TeleegramPayment\TelegramPaym\Telegram-Payment-Bot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
